@@ -1,2 +1,2 @@
 # My-first-website-
-this a my first clone website
+this my first clone website
